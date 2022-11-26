@@ -53,8 +53,6 @@ Lalu kita membuat tree sebagai berikut
 
 Setelah semua selesai, kita perlu melakukan konfigurasi pada packet tracer sebagai berikut:
 
-`LANJUT DARI SINI`
+## Metode CIDR & Kendala
 
-## Metode CIDR
-
-Untuk metode ini belum dapat kami selesaikan
+Untuk kendala ada di metode CIDR karena belum dapat kami selesaikan
