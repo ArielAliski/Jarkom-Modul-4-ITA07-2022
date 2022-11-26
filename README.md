@@ -4,10 +4,11 @@
 
 Anggota kelompok: 
 
-| Ariel Daffansyah Aliski | 5027201058 |
-| --- | --- |
-| Anak Agung Bintang Krisna Dewi | 5027201060 |
-| Naftali Salsabila Kanaya Putri | 5027201012 |
+| Nama                           | NRP          | 
+| -------------------------------| -------------| 
+| Naftali Salsabila Kanaya Putri    | `5027201012` | 
+| Ariel Daffansyah Aliski           | `5027201058` | 
+| Anak Agung Bintang Krisnadewi     | `5027201060` |
 
 **Soal Shift Modul 4 - Subnetting & Routing**
 
