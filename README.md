@@ -62,7 +62,7 @@ Setelah semua selesai, kita perlu melakukan konfigurasi pada packet tracer sebag
 ![GuideauSetting](img/GuideauSetting.jpg)
 ![GuideauFastEthernet](img/GuideauFastEthernet.jpg)
 
-2. Kemudian dari Router melakukan Assign terhadap IP Address dan subnet mask interface router tersebut. Contoh pada bagian Router Minister yang terhubung degan Host Guideau dimana interfacenya yaitu `FastEthernet0/1`. Konfigurasinya adalah sebagai berikut: </br>
+2. Kemudian dari Router melakukan Assign terhadap IP Address dan subnet mask interface router tersebut. Contoh pada bagian Router Minister yang terhubung dengan Host Guideau dimana interfacenya yaitu `FastEthernet0/1`. Konfigurasinya adalah sebagai berikut: </br>
 ![MinisterConfig](img/MinisterConfig.jpg)
 
 3. Jika Router terhubung dengan router lagi dapat dilakukan Routing dnegan melakukan konfigurasinya yaitu pada `Config - Routing - Static` mengisikan `Network`, `Mask`, dan `Next Hop` yang ditujukan. Contoh pada Router Dauntless yang terhubung dengan router Minister yang kemudian terhubung dengan Host Guideau: Maka Konfigurasi pada Router Dauntless mengisi konfigurasi dengan `Network : 10.43.8.0`, kemudian `Mask : 255.255.252.0`, dan `Next Hop : 10.43.8.1` yang merupakan IP dari Router Minister. </br>
