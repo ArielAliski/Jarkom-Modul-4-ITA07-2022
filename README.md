@@ -2,16 +2,12 @@
 
 ## Laporan Hasil Praktikum Modul 4 Kelompok ITA07
 
-Jarkom-Modul-4-ITA07-2022
-
 Anggota kelompok: 
 
 | Ariel Daffansyah Aliski | 5027201058 |
 | --- | --- |
 | Anak Agung Bintang Krisna Dewi | 5027201060 |
 | Naftali Salsabila Kanaya Putri | 5027201012 |
-
-# Daftar isi
 
 **Soal Shift Modul 4 - Subnetting & Routing**
 
