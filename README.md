@@ -24,7 +24,11 @@ Berikut adalah hasil topologi yang kami buat
 
 ![Untitled](img/Untitled%201.png)
 
-Setelah itu, kami melakukan perhitungan untuk pembagian IPnya sebagai berikut:
+Setelah itu, kami melakukan pembagian subnet sebagai berikut:
+
+![Subnet](img/subnet.png)
+
+Berikut adalah perhitungan untuk pembagian IPnya:
 
 | Nama Subnet | Size Diperlukan | Dialokasikan | Netmask | Subnet Mask | Network ID | Assignable IP Range | Broadcast Address |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -47,10 +51,6 @@ Setelah itu, kami melakukan perhitungan untuk pembagian IPnya sebagai berikut:
 | A5 | 271 | 510 | /23 | 255.255.254.0 | 10.43.6.0 | 10.43.6.1 - 10.43.7.254 | 10.43.7.255 |
 | A1 | 1001 | 1022 | /22 | 255.255.252.0 | 10.43.8.0 | 10.43.8.1 - 10.43.11.254 | 10.43.11.255 |
 | Total | 2618 |  | /20 |  |  |  |  |
-
-Berikut adalah pembagian subnet-nya:
-
-![Subnet](img/subnet.png)
 
 Lalu kita membuat tree sebagai berikut
 
