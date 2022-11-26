@@ -48,6 +48,10 @@ Setelah itu, kami melakukan perhitungan untuk pembagian IPnya sebagai berikut:
 | A1 | 1001 | 1022 | /22 | 255.255.252.0 | 10.43.8.0 | 10.43.8.1 - 10.43.11.254 | 10.43.11.255 |
 | Total | 2618 |  | /20 |  |  |  |  |
 
+Berikut adalah pembagian subnet-nya:
+
+![Subnet](img/subnet.png)
+
 Lalu kita membuat tree sebagai berikut
 
 ![Tree.jpg](img/Tree.jpg)
